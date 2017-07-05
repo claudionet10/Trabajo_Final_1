@@ -1,1 +1,6 @@
 github_url
+
+
+Inicio del trabajo finla de HTML
+Creación de la pagina index.html, en la que se detalla la informacion personal.
+
