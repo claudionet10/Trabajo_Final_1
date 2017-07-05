@@ -2,7 +2,7 @@ github_url
 
 
 Inicio del trabajo finla de HTML
-Creación de la pagina index.html, en la que se detalla la informacion personal.
+CreaciÃ³n de la pagina index.html, en la que se detalla la informacion personal.
 
 Creacion de la pagina educacion.html
 Se crea la pagina mencianada donde se detalla los estudios cursados y tambien 
@@ -11,3 +11,4 @@ hay un formulario con botones de radio donde se puede agregar nuevos cursos real
 Creacion de pagina experiencia.html
 Se crea dicha pagina donde se detalla atravez de un video la experiencia y se agrega
 un audio
+
