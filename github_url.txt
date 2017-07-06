@@ -1,5 +1,6 @@
-github_url
+﻿github_url
 
+https://github.com/claudionet10/Trabajo_Final_1
 
 Inicio del trabajo finla de HTML
 Creación de la pagina index.html, en la que se detalla la informacion personal.
